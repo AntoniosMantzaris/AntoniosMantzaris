@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonios Mantzaris</h1>
-<h3 align="center">A curious and ambitious mathematician from Greece, infiltrating the world of Data Science and Big Data.</h3>
+<h3 align="center">A curious and ambitious mathematician from Greece, infiltrating the worlds of Data Science and Big Data.</h3>
 
 - 📫 How to reach me **mantzarisan@gmail.com**
 
